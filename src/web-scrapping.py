@@ -87,7 +87,7 @@ def export_df(df:pd.DataFrame):
 
 # Executando as funções
 get_site("https://results.ittf.link/")
-login("Araujo","Wtt@2025")
+login("*****","*****")
 get_site("https://results.ittf.link/index.php/statistics/win-rate-all-events/")
 get_total_pages()
 get_start_page()
